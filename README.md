@@ -6,11 +6,20 @@ Pros
 - Samlet validering (test)
 - Refactor
 - C#, LINQ
+- Eksisterer parameter på objekt?
+- Compiletime typechecking (kan du kalde denne metode på denne type?)
+- cshtml kompilerer til flot html i min mening
 
 Cons
-- Ikke moden (mangler biblioteker, ikke meget dokumentation, 
+- Ikke moden 
+  - mangler biblioteker
+  - ikke meget dokumentation
+  - Mangler udviklingsværktøjer
+    - fx. Hot reload kommer først med dotnet 6
+- Webassembly er sværere at have indsigt i (måske mangler jeg bare at lære det)
 - Smertefuld debug
+  - Skal kompileres til det og browser skal startes med ikke standard flag
   - Mangler understøttelse i Rider
-- Bugs? 
+- Bugs?
   - Raceconditions af publish med compression
 - Miljøvariabel som styrer miljø skal sættes i header (undersøg igen)
