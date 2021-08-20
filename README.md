@@ -9,6 +9,8 @@ Pros
 - Eksisterer parameter på objekt?
 - Compiletime typechecking (kan du kalde denne metode på denne type?)
 - cshtml kompilerer til flot html i min mening
+- Roslyn giver mulighed for nice udviklingsværktøjer
+  - Rider ctrl+click på url
 
 Cons
 - Ikke moden 
