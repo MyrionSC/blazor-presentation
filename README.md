@@ -21,7 +21,7 @@ Cons
 - Webassembly er sværere at have indsigt i (måske mangler jeg bare at lære det)
 - Smertefuld debug
   - Skal kompileres til det og browser skal startes med ikke standard flag
-  - Mangler understøttelse i Rider
+  - Mangler understøttelse i Rider (ikke mere)
 - Bugs?
   - Raceconditions af publish med compression
 - Miljøvariabel som styrer miljø skal sættes i header (undersøg igen)
