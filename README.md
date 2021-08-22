@@ -18,6 +18,8 @@ Cons
   - ikke meget dokumentation
   - Mangler udviklingsværktøjer
     - fx. Hot reload kommer først med dotnet 6
+- Reflection er lidt magisk nogle gange (
+  - kunne ikke finde ud af bind
 - Webassembly er sværere at have indsigt i (måske mangler jeg bare at lære det)
 - Smertefuld debug
   - Skal kompileres til det og browser skal startes med ikke standard flag
