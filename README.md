@@ -1,6 +1,15 @@
 Intro
 - RazorPages vs BlazorServer vs BlazorWASM
 
+Demo
+- Statistik
+  - Components
+    - Parametre
+    - EventCallback
+  - JS interop (plotly)
+  - Intellisense
+    - Enum i parameter
+
 Pros
 - Forenet model på FE og BE
 - Samlet validering (test)
