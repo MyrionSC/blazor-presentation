@@ -13,13 +13,13 @@ Demo
 
 Pros
 - Forenet model på FE og BE
-- Samlet validering (test)
+- Samlet validering af model
 - Refactor
 - C#, LINQ
 - Eksisterer parameter på objekt?
 - Compiletime typechecking (kan du kalde denne metode på denne type?)
 - cshtml kompilerer til flot html i min mening
-- Roslyn giver mulighed for nice udviklingsværktøjer
+- UI og backend i samme repo giver mulighed for mere integration
   - Rider ctrl+click på url
 - God officiel dokumentation
 
@@ -31,6 +31,7 @@ Cons
     - fx. Hot reload kommer først med dotnet 6
 - Reflection er lidt magisk nogle gange
   - kunne ikke finde ud af two way bind
+  - 
 - Webassembly er sværere at have indsigt i (måske mangler jeg bare at lære det)
   - Fejlbeskeder er ikke altid lige beskrivende
   ![image](https://user-images.githubusercontent.com/8692680/131094273-e3fe348f-fad9-45ff-8146-840c051ca7fb.png)
@@ -44,4 +45,4 @@ Cons
  
 - Bugs?
   - Raceconditions af publish med compression
-- Miljøvariabel som styrer miljø skal sættes i header (undersøg igen)
+
